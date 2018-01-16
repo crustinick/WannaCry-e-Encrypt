@@ -1,0 +1,12 @@
+Email: contato@bancocn.com
+Tel: +835 66 7070
+
+megan.ns.cloudflare.com
+noel.ns.cloudflare.com
+
+www.bancocn.com 104.24.122.12
+www.bancocn.com 104.24.123.12
+
+bancocn.com/admin
+
+ENUMERAR SERVICOS:
